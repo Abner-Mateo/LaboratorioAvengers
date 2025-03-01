@@ -1,0 +1,14 @@
+C:\proyecto\tony\poryecto_mision\poryecto_mision\bin\Debug\net8.0\poryecto_mision.exe
+C:\proyecto\tony\poryecto_mision\poryecto_mision\bin\Debug\net8.0\poryecto_mision.deps.json
+C:\proyecto\tony\poryecto_mision\poryecto_mision\bin\Debug\net8.0\poryecto_mision.runtimeconfig.json
+C:\proyecto\tony\poryecto_mision\poryecto_mision\bin\Debug\net8.0\poryecto_mision.dll
+C:\proyecto\tony\poryecto_mision\poryecto_mision\bin\Debug\net8.0\poryecto_mision.pdb
+C:\proyecto\tony\poryecto_mision\poryecto_mision\obj\Debug\net8.0\poryecto_mision.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto\tony\poryecto_mision\poryecto_mision\obj\Debug\net8.0\poryecto_mision.AssemblyInfoInputs.cache
+C:\proyecto\tony\poryecto_mision\poryecto_mision\obj\Debug\net8.0\poryecto_mision.AssemblyInfo.cs
+C:\proyecto\tony\poryecto_mision\poryecto_mision\obj\Debug\net8.0\poryecto_mision.csproj.CoreCompileInputs.cache
+C:\proyecto\tony\poryecto_mision\poryecto_mision\obj\Debug\net8.0\poryecto_mision.dll
+C:\proyecto\tony\poryecto_mision\poryecto_mision\obj\Debug\net8.0\refint\poryecto_mision.dll
+C:\proyecto\tony\poryecto_mision\poryecto_mision\obj\Debug\net8.0\poryecto_mision.pdb
+C:\proyecto\tony\poryecto_mision\poryecto_mision\obj\Debug\net8.0\poryecto_mision.genruntimeconfig.cache
+C:\proyecto\tony\poryecto_mision\poryecto_mision\obj\Debug\net8.0\ref\poryecto_mision.dll
